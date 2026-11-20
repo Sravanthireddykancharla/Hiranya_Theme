@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Royal Dark Green & Gold Theme */
+.page-header {
+  background-color: #064e3b;
+  background-image: linear-gradient(120deg, #022c22, #065f46);
+  border-bottom: 4px solid #d4af37;
+}
+.project-name {
+  color: #facc15;
+}
+.project-tagline {
+  color: #ecfdf5;
+  opacity: 0.95;
+}
+.main-content h1, .main-content h2, .main-content h3 {
+  color: #065f46;
+}
+.main-content a {
+  color: #b45309;
+  font-weight: bold;
+}
